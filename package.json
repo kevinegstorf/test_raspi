@@ -1,0 +1,22 @@
+{
+  "name": "test-home-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -p 8080 -a localhost -c 0",
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinegstorf/test_raspi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinegstorf/test_raspi/issues"
+  },
+  "homepage": "https://github.com/kevinegstorf/test_raspi#readme"
+}
